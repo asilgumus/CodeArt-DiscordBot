@@ -1,4 +1,4 @@
-# Yazilimhanesi Discord Bot
+# CodeArt Discord Bot
 
 This is a Discord bot project built using Node.js and the Discord.js library. The bot includes multiple commands organized in categories, event handlers, and utility modules. It uses environment variables for configuration and connects to a database stored in a SQLite file.
 
